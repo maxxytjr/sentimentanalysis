@@ -4,9 +4,9 @@
 This repository includes code from the *Sentiment Analysis Project* of the *Udacity Machine Learning Engineer* Nanodegree program.
 
 ## Description
-A neural network (RNN) is constructed using PyTorch to conduct sentiment analysis from blocks of texts.
+A recurrent neural network (RNN) is constructed using PyTorch to conduct sentiment analysis from blocks of texts.
 
-The neural netowrk is trained and deployed in **Amazon SageMaker**.
+The neural network is trained and deployed in **Amazon SageMaker**.
 
 **Text preprocessing** included:
   * Removing HTML formats
